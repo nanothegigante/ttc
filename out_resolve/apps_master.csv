@@ -1,0 +1,39 @@
+app_key,query_name,trackId,bundleId,trackName,sellerName,primaryGenreName,languageCodesISO2A,releaseDate,countries_found,score_total,score_breakdown
+ママケリー,ママケリー,1339957550,jp.co.nittsusystem.mamakelly,ママケリー：生理管理や妊活から妊娠･育児もママと子供のアプリ,"KINJIRO CO.,LTD.",Health & Fitness,JA,2018-01-31T22:05:12Z,JP,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+コノトキ,コノトキ,1501112518,com.amanefactory.konotoki,コノトキ - 妊娠のために基礎体温、生理で排卵日予測,amane factory inc.,Health & Fitness,EN;JA;KO;ZH;ZH,2020-03-18T07:00:00Z,JP,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+リズム手帳,リズム手帳,575109564,jp.co.nihon-e.rhythmfree,リズム手帳 ｰ生理日管理～妊活まで,"Nihon Enterprise Co.,Ltd",Health & Fitness,EN;JA;KO;ZH,2012-11-09T03:44:04Z,JP,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+4MOON,4MOON,1565472349,com.fourmeee.moon,生理管理アプリ 4MOON -  生理周期や排卵日の予測に,4MEEE INC.,Health & Fitness,JA,2021-05-24T07:00:00Z,JP,93.0,"{""startswith"": 0.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 93.0}"
+MeetYou,MeetYou,1608870986,com.meiyou.meetyou,MeetYou - 生理日追跡,"Hangzhou Youzijie Information Technology Co., Ltd.",Health & Fitness,AR;EN;FR;DE;ID;IT;JA;KO;MS;PT;RU;ZH;ES;TH;ZH;TR;VI,2022-03-09T08:00:00Z,JP,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+生理トラッカ,生理トラッカ,1522679787,com.mberezina.calendar,"生理トラッカ, 排卵と妊娠カレンダ, 症状, 妊活避妊",Marina Berezina,Health & Fitness,AR;BG;CA;HR;CS;DA;NL;EN;FI;FR;DE;EL;HE;HI;HU;ID;IT;JA;KO;MS;NB;PL;PT;RO;RU;SR;ZH;SK;ES;SV;TH;ZH;TR;UK;VI,2020-08-22T07:00:00Z,JP,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+ケアミー,ケアミー,1505033077,jp.healthandrights.coyomiv2,生理・PMSの共有アプリ ケアミー,Health & Rights Inc.,Health & Fitness,EN,2020-05-14T07:00:00Z,GB,93.0,"{""startswith"": 0.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 93.0}"
+Ovia,Ovia,1106614359,com.ovuline.Parenting,Ovia Parenting & Baby Tracker,"Ovuline, Inc.",Medical,EN;ES,2016-09-27T02:23:39Z,GB,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+Fertility Friend,Fertility Friend,443919067,com.tamtris.fertilityfriend,Fertility Friend FF App,Tamtris Web Services Inc.,Health & Fitness,EN,2011-06-21T19:15:41Z,GB,98.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 95.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 98.0}"
+Apricity Fertility,Apricity Fertility,1481947204,life.apricity.app.prod,Apricity Fertility Companion,Apricity,Medical,EN,2019-12-16T08:00:00Z,GB;JP,95.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 95.0}"
+Apricity TTC,Apricity TTC,1616619721,life.apricity.app.free.prod,Apricity TTC App,Apricity,Medical,EN,2022-07-04T07:00:00Z,JP,98.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 95.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 98.0}"
+OEVEO,OEVEO,6470270871,com.be.fertility,OEVEO,BeyondEdge Pte Ltd,Health & Fitness,EN,2025-03-24T07:00:00Z,GB,103.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 100.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 3.0, ""total"": 103.0}"
+コウノトリ,コウノトリ,1463017487,jp.co.planex.oviewjp,コウノトリ(女性用),Planex Communication Inc.,Lifestyle,JP,92.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 0.0, ""total"": 92.0}"
+コウノトリ,コウノトリ,1463016981,jp.co.planex.oviewmjp,コウノトリ（男性用）,Planex Communication Inc.,Lifestyle,JP,92.0,"{""startswith"": 92.0, ""contains"": 88.0, ""fuzzy"": 90.0, ""dev_bonus"": 0.0, ""bundle_bonus"": 0.0, ""genre_bonus"": 0.0, ""total"": 92.0}"
+生理カレンダー,生理カレンダー,1314105758,jp.co.eversense.michiru,基礎体温も管理できる生理管理アプリ-ミチル(michiru),"EVER SENSE, INC.",Health & Fitness,GB,0.0,0.0,25.71428571428571,0.0,0.0,3.0,28.71428571428571
+生理カレンダー,生理カレンダー,1033048224,jp.co.nihon-e.lovememo,Happy妊活ライフを応援－ラブめも－,"Nihon Enterprise Co.,Ltd",Health & Fitness,GB,0.0,0.0,0.0,0.0,0.0,3.0,3.0
+生理カレンダー,生理カレンダー,1634354131,com.ssk.BodyTemperatureRecordingCalendar,体温記録カレンダー,Tomohiro Sasaki,Health & Fitness,GB,0.0,0.0,62.5,0.0,0.0,3.0,65.5
+Glow,Glow,638021335,com.upwlabs.emma,Glow Ovulation & Period App,"Glow, Inc.",Health & Fitness,JP,92.0,88.0,90.0,0.0,0.0,3.0,95.0
+Ovia,Ovia,1038369065,org.iggymedia.periodtracker,Flo Period & Cycles Tracker,FLO HEALTH UK LIMITED,Health & Fitness,GB,0.0,0.0,22.5,0.0,0.0,3.0,25.5
+Ovia,Ovia,657189652,com.helloclue.clue,Clue Period & Cycle Tracker,BioWink GmbH,Health & Fitness,GB,0.0,0.0,22.5,0.0,0.0,3.0,25.5
+Ovia,Ovia,1529565125,com.btang.femometer.eu,Femometer - Fertility Tracker,Femometer UK Limited,Health & Fitness,GB,0.0,0.0,22.5,0.0,0.0,3.0,25.5
+eggs LAB,eggs LAB,1324884563,jp.co.ixit.eggs,Grace Care - 生理管理・フェムケアサポート,"Eggs Co., Ltd.",Health & Fitness,GB;JP,0.0,0.0,25.71428571428571,0.0,0.0,3.0,28.71428571428571
+コウノトリ,コウノトリ,1423628793,com.wachanga.womancalendar,Clover: 生理管理アプリで月経を予測&妊活情報,Wachanga LTD,Health & Fitness,JP,0.0,0.0,17.999999999999996,0.0,0.0,3.0,20.999999999999996
+コウノトリ,コウノトリ,368724832,jp.co.mti.luna2,ルナルナ｜生理日・体調・妊活・基礎体温・ピル服薬管理も！,MTI Ltd.,Health & Fitness,JP,0.0,0.0,0.0,0.0,0.0,3.0,3.0
+コウノトリ,コウノトリ,479838529,jp.lalu.sp,妊活・生理 ラルーン｜基礎体温・妊娠・月経、周期やピルの管理,"MEDLEY, INC",Health & Fitness,JP,0.0,0.0,0.0,0.0,0.0,3.0,3.0
+コウノトリ,コウノトリ,641423096,jp.co.mti.bbt,ルナルナ 体温ノート,MTI Ltd.,Health & Fitness,JP,0.0,0.0,45.0,0.0,0.0,3.0,48.0
+コウノトリ,コウノトリ,1605464028,flora.period.tracker.fertility.female.health.calendar.ai.app,Moonlyで生理・妊活・メンタルの管理をサポート,FLORA K.K.,Health & Fitness,JP,0.0,0.0,30.000000000000004,0.0,0.0,3.0,33.0
+BabyCenter,BabyCenter,386022579,com.babycenter.mypregnancytoday,BabyCentre - Pregnancy tracker,"Everyday Health, Inc.",Medical,GB,0.0,0.0,85.26315789473685,0.0,0.0,3.0,88.26315789473685
+BabyCenter,BabyCenter,896501514,com.abishkking.periodcalendar,Period & Cycle Tracker,ABISHKKING LIMITED.,Health & Fitness,GB,0.0,0.0,36.0,0.0,0.0,3.0,39.0
+Period Tracker,Period Tracker,1010506484,com.ovulationcalendar.OC,Ovulation Calculator Fertile Tracker & Calendar OC,Ovulation Calculator Pty Ltd,Medical,GB,0.0,0.0,85.5,0.0,0.0,3.0,88.5
+Period Tracker,Period Tracker,1495829322,com.stardust.stardustapp,Stardust: Period & Pregnancy,Stardust App LLC,Health & Fitness,GB,0.0,0.0,85.5,0.0,0.0,3.0,88.5
+Period Tracker,Period Tracker,489196207,com.efrac.movcalu2,Menstrual Period Tracker,EFRAC - FILIP NOWORYTA,Health & Fitness,GB,0.0,88.0,90.0,0.0,0.0,3.0,93.0
+Period Tracker,Period Tracker,388618100,com.bhi.periodplannerlite,Period Tracker - Menstrual & Ovulation Calendar,"BHI Technologies, Inc.",Health & Fitness,GB,92.0,88.0,90.0,0.0,0.0,3.0,95.0
+Period Tracker,Period Tracker,1499664504,periodtracker.app,Period Tracker ·,Luni,Health & Fitness,GB,92.0,88.0,95.0,0.0,0.0,3.0,98.0
+Period Tracker,Period Tracker,577187307,se.perigee.Pocket-Cycle,Cycles: Period & Cycle Tracker,Perigee AB,Health & Fitness,GB,0.0,0.0,85.5,0.0,0.0,3.0,88.5
+Period Tracker,Period Tracker,765535549,com.naturalcycles.cordova,Natural Cycles: Birth Control,NaturalCycles Nordic AB,Health & Fitness,GB,0.0,0.0,30.53571428571428,0.0,0.0,3.0,33.53571428571428
+Period Tracker,Period Tracker,6447674634,lively.cycle.syncing.period.tracker,"Lively ~ Period Tracker, Cycle","Lively Cycle, LLC",Health & Fitness,GB,0.0,88.0,90.0,0.0,0.0,3.0,93.0
+
