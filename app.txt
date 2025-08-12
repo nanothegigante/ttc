@@ -1,11 +1,11 @@
 ninepath
-Femometer Fertility Tracker
+Femometer
 ラルーン
 ママケリー
 コノトキ
 リズム手帳
 Clue
-ルナルナ
+ルナルナアプリ
 Moonlyで生理・妊活・メンタルの管理をサポート
 ソフィガール
 妊娠したかも
@@ -34,5 +34,14 @@ Ovia
 Fertility Friend
 Kindara
 Period Tracker
-
-
+Natural Cycles
+Embie
+The Bump
+BabyCenter
+Apricity Fertility
+Apricity TTC
+OEVEO
+コウノトリ
+eggy
+eggs LAB
+ムーン
